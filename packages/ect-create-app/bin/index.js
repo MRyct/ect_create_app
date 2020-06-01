@@ -1,1 +1,2 @@
-console.log("构建工具")
+#!/usr/bin/env node
+require("../createApp")
